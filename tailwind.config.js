@@ -8,6 +8,7 @@ module.exports = {
         'core-features-bg': "url('./image/core-features-sectionBg.svg') !important",
         'feature-section-2-bg': "url('./image/feature-section-2BG.svg') !important",
         'instant-settlement-bg': "url('./image/instant-settlement-bg.svg') !important",
+        'instant-settlement-hover-bg': "url('./image/instant-settlement-bghover.svg') !important"
       },
       fontFamily: {
         mullish: ["Mulish", "sans-serif"],

@@ -1213,6 +1213,10 @@ video {
   background-image: url('./image/instant-settlement-bg.svg') !important;
 }
 
+.bg-instant-settlement-hover-bg {
+  background-image: url('./image/instant-settlement-bghover.svg') !important;
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -1583,6 +1587,10 @@ video {
 .hover\:bg-lightBlue500:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(11 114 231 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-instant-settlement-hover-bg:hover {
+  background-image: url('./image/instant-settlement-bghover.svg') !important;
 }
 
 .hover\:text-deepBlue:hover {
